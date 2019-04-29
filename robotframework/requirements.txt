@@ -6,4 +6,6 @@ pyvirtualdisplay==0.2
 robotframework-pabot==0.43
 robotframework-pageobjectlibrary==1.0.0b2
 robotframework-jsonlibrary
+requests
+robotframework-requests
 retry

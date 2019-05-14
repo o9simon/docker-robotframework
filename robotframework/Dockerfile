@@ -18,6 +18,7 @@ RUN apt-get -yqq  update \
     && apt-get install -y \
     apt-utils \
     sudo \
+    rsync \
     tzdata \
     python-pip \
     python-setuptools \
